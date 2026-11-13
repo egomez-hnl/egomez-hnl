@@ -1,3 +1,4 @@
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/3fa1b0a0-0bb3-4977-99e2-204eb2e90bb4" />
 # ¡Hola! Soy Edgar Gómez 👋
 
 ### Ingeniero en Sistemas | Desarrollador Full Stack | Desarrollador Mobile
@@ -82,14 +83,50 @@ Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas 
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=egomez-hnl&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egomez-hnl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=egomez-hnl&theme=tokyonight&hide_border=true" />
 </p>
 
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=egomez-hnl&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+</div>
+
+### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egomez-hnl&theme=github_dark)
+  
+ </div>
+ 
+ ### ⏱ Streak Stats
+ 
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egomez-hnl&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ </div>
+ 
+ ### 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=egomez-hnl&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 📊 Most Used Language
+
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=egomez-hnl&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
+ 
+ ### 🏆 Profile Trophies
+
+<div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=egomez-hnl&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 ---
 
 ## 📫 Contacto
@@ -97,11 +134,8 @@ Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas 
 Si quieres conversar sobre desarrollo de software, colaborar en algún proyecto o compartir ideas, puedes encontrarme en:
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_GITHUB">
+  <a href="https://github.com/egomez-hnl">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/fedgoxtech/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
