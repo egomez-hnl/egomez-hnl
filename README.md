@@ -131,5 +131,5 @@ Si quieres conversar sobre desarrollo de software, colaborar en algún proyecto 
 </p>
 
 <p align="center">
-  <b>Construyendo puentes a través del código.</b>
+  <b>¡Saludos!</b>
 </p>
