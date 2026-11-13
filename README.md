@@ -120,16 +120,6 @@ Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas 
  </div>
 ---
 
-## 📫 Contacto
-
-Si quieres conversar sobre desarrollo de software, colaborar en algún proyecto o compartir ideas, puedes encontrarme en:
-
 <p align="center">
-  <a href="https://github.com/egomez-hnl">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>¡Saludos!</b>
+  <b>¡A la orden siempre. Saludos!</b>
 </p>
