@@ -1,94 +1,103 @@
-# 👋 ¡Hola! Soy Edgar Gómez
+# ¡Hola! Soy Edgar Gómez 👋
 
-### 💻 Ingeniero en Sistemas | Desarrollador Full Stack | Desarrollador Mobile
+### Ingeniero en Sistemas | Desarrollador Full Stack | Desarrollador Mobile
 
-Soy un ingeniero en sistemas apasionado por la tecnología, el desarrollo de software y la creación de soluciones digitales innovadoras.
+Me interesa el desarrollo de software y la creación de soluciones tecnológicas que respondan a necesidades reales. Trabajo en proyectos web y móviles, desarrollo de servicios backend e integración de APIs, además de explorar herramientas de inteligencia artificial y servicios en la nube.
 
-Me gusta transformar ideas en aplicaciones funcionales, desarrollar plataformas web, crear experiencias móviles, diseñar APIs y explorar nuevas tecnologías para construir soluciones eficientes y escalables.
-
-### 🚀 Sobre mí
-
-- 💻 Desarrollo de aplicaciones web Frontend y Backend.
-- 📱 Desarrollo de aplicaciones móviles multiplataforma y Android.
-- ⚙️ Diseño, desarrollo e integración de APIs REST.
-- 🗄️ Diseño y gestión de bases de datos.
-- ☁️ Implementación y despliegue de aplicaciones en la nube.
-- 🐳 Uso de Docker para la contenerización de aplicaciones.
-- 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
-- 🤝 Interesado en colaborar en proyectos innovadores y aportar soluciones tecnológicas.
+Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas y llevar las ideas desde su concepción hasta una aplicación funcional.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧑‍💻 Áreas de desarrollo
 
-### 🎨 Desarrollo Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vue,vite,webpack" />
-</p>
-
-### ⚙️ Desarrollo Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,java,cs,cpp" />
-</p>
-
-### 📱 Desarrollo Mobile
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,androidstudio" />
-</p>
-
-### 🗄️ Bases de datos
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
-</p>
-
-### ☁️ Cloud, DevOps e infraestructura
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,github,git,raspberrypi" />
-</p>
-
-### 🔧 Herramientas y plataformas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,linux,figma,github" />
-</p>
+- Desarrollo de aplicaciones web.
+- Desarrollo de aplicaciones móviles.
+- Diseño y desarrollo de APIs REST.
+- Integración de servicios y sistemas externos.
+- Administración y diseño de bases de datos.
+- Inteligencia artificial y aprendizaje automático.
+- Contenerización y despliegue de aplicaciones.
+- Infraestructura y servicios en la nube.
 
 ---
 
-## 💡 ¿En qué me especializo?
-
-- **Desarrollo Web:** Creación de aplicaciones web modernas, dinámicas y adaptables a diferentes dispositivos.
-- **Desarrollo Mobile:** Construcción de aplicaciones móviles utilizando React Native, Flutter y Android Studio.
-- **Desarrollo Backend:** Diseño de APIs, lógica de negocio y servicios backend.
-- **Bases de datos:** Diseño, administración e integración de bases de datos relacionales.
-- **Cloud y DevOps:** Contenerización de aplicaciones con Docker y despliegue en plataformas cloud.
-- **Ingeniería de Software:** Aplicación de buenas prácticas para desarrollar soluciones mantenibles, eficientes y escalables.
-
----
-
-## 📊 Estadísticas de GitHub
+## 💻 Lenguajes de programación
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,cpp,c,dart,matlab" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualstudio&logoColor=white" />
+</p>
+
+## 🌐 Desarrollo Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,vue,vite,webpack,tailwind" />
+</p>
+
+## ⚙️ Desarrollo Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,express,fastapi,php,dotnet" />
+</p>
+
+## 📱 Desarrollo Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,java" />
+</p>
+
+## 🤖 Inteligencia Artificial y Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+## 🗄️ Bases de datos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
+</p>
+
+## ☁️ Cloud, DevOps e infraestructura
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,githubactions,raspberrypi,linux" />
+</p>
+
+## 🧰 Herramientas de desarrollo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,git,github" />
 </p>
 
 ---
 
-## 🤝 Conectemos
+## 📊 GitHub
 
-Siempre estoy abierto a colaborar en proyectos interesantes, compartir conocimientos, aprender de otros desarrolladores y explorar nuevas oportunidades.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contacto
+
+Si quieres conversar sobre desarrollo de software, colaborar en algún proyecto o compartir ideas, puedes encontrarme en:
+
+<p align="center">
+  <a href="https://github.com/TU_USUARIO_GITHUB">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/fedgoxtech/">
@@ -96,10 +105,6 @@ Siempre estoy abierto a colaborar en proyectos interesantes, compartir conocimie
   </a>
 </p>
 
----
-
 <p align="center">
-  <b>💻 Construyendo puentes a través del código.</b>
-  <br/>
-  <i>Seguir aprendiendo. Seguir construyendo. Seguir innovando. 🚀</i>
+  <b>Construyendo puentes a través del código.</b>
 </p>
