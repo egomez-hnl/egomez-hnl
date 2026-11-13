@@ -1,7 +1,7 @@
 <div>
 <img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/3fa1b0a0-0bb3-4977-99e2-204eb2e90bb4" />
 </div>
-### ¡Hola! Soy Edgar Gómez 👋
+### ¡Hola! Soy Edgar Gómez
 
 ### Ingeniero en Sistemas | Desarrollador Full Stack | Desarrollador Mobile
 
