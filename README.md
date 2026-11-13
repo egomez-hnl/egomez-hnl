@@ -24,7 +24,7 @@ Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas 
 ## 💻 Lenguajes de programación
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,cpp,c,dart,matlab" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,cs,cpp,c,dart" />
 </p>
 
 <p align="center">
@@ -40,19 +40,19 @@ Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas 
 ## ⚙️ Desarrollo Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,express,fastapi,php,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,flask,fastapi,php" />
 </p>
 
 ## 📱 Desarrollo Mobile
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,androidstudio,java" />
 </p>
 
 ## 🤖 Inteligencia Artificial y Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,keras" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas 
 ## 🗄️ Bases de datos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,sqlserver" />
 </p>
 
 ## ☁️ Cloud, DevOps e infraestructura
@@ -82,12 +82,12 @@ Me gusta aprender nuevas tecnologías, experimentar con diferentes herramientas 
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=egomez_hnl&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egomez_hnl&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=egomez_hnl&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
